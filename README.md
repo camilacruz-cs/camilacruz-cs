@@ -1,16 +1,21 @@
-### Hi there 👋
+##Olá, meu nome é Camila Cruz! ☀️
 
-<!--
-**camilacruz-cs/camilacruz-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/camiladacruz-cs/)
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](camiladacruz.cs@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Camila Cruz](https://github-readme-stats.vercel.app/api/top-langs/?username=camilacruz-cs)](https://github.com/camilacruz-cs/github-readme-stats)
+
+##Tecnologias que uso no meu dia a dia no trabalho:
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+<div style="display: inline_block"><br/>
+    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div><br/>
+
+👩🏿‍🎓 Cientista social apaixonada por tecnologia e por analisar dados. 
