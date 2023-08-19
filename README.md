@@ -6,7 +6,7 @@
 
 ✅ Já trabalhei construindo relatórios com Google DataStudio (LookerStudio) e analisando dados com Google Sheets.
 
-💡 Participo da comunidade Mulheres em Dados. 
+💡 Participo da comunidade [[Mulheres em Dados]](https://www.linkedin.com/company/mulheresemdados/), com o time de Inglês/Conversação, e também da [WoMakersCode](https://www.linkedin.com/company/womakerscode/). 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
