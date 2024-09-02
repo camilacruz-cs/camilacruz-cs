@@ -2,11 +2,13 @@
 
 👩🏿‍🎓 Cientista social apaixonada por tecnologia e por analisar dados.
 
-💻 Trabalho atualmente como Analista de Dados Júnior. No meu dia a dia, utilizo PowerBi para construção de dashboards interativos e estou iniciando minha jornada de analisar dados em Python e SQL Server. 
+💻 Trabalho atualmente como Analista de Dados Pleno. No meu dia a dia, utilizo PowerBi para construção de dashboards interativos e estou iniciando minha jornada de analisar dados em Python e SQL Server. 
 
 ✅ Já trabalhei construindo relatórios com Google DataStudio (LookerStudio) e analisando dados com Google Sheets.
 
-💡 Participo da comunidade [Mulheres em Dados](https://www.linkedin.com/company/mulheresemdados/), com o time de Inglês/Conversação, e também da [WoMakersCode](https://www.linkedin.com/company/womakerscode/). 
+💡 Participo da comunidade [Mulheres em Dados](https://www.linkedin.com/company/mulheresemdados/) e também da [WoMakersCode](https://www.linkedin.com/company/womakerscode/) como voluntária. 
+
+💡 Atuo como Analista de Dados | Voluntária na comunidade [#ElasNoPoder](https://www.linkedin.com/company/elasnopoderbr/mycompany/). Atuo com análise de redes sociais. 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
