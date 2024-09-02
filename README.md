@@ -24,7 +24,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 Linguagens & Tecnologias: `Python`, `Microsoft SQL`, `Azure Databricks`, `PowerBi`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/C4D0BAQF_nbgjacW5Ow/company-logo_200_200/0/1612791708332?e=1693440000&v=beta&t=i9f-Mxwx7IFsGHAl4QNHO9eN8XHfAntfo8uCf1Owl4s](https://media.licdn.com/dms/image/v2/D4D0BAQFzl9ehpC65Fw/company-logo_200_200/company-logo_200_200/0/1699040021711/nao_consultoria_estratgia_logo?e=1733356800&v=beta&t=-rp4ay8_BomTJ5slM8kLTghFD3JLlGJDlAXn6jH5I6A)"/>](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/C4D0BAQF_nbgjacW5Ow/company-logo_200_200/0/1612791708332?e=1693440000&v=beta&t=i9f-Mxwx7IFsGHAl4QNHO9eN8XHfAntfo8uCf1Owl4s"/>](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/)
 
 **Analista de Bussiness Intelligence** \
 [**Nação Consultoria e Estratégia**](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/) • Full-time \
