@@ -31,7 +31,7 @@ Linguagens & Tecnologias: `Python`, `Microsoft SQL`, `Azure Databricks`, `PowerB
 Linguagens & Tecnologias: `Google Sheets`, `RStudio`, `DataViz`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://media.licdn.com/dms/image/C4D0BAQFNLdi66ybirQ/company-logo_200_200/0/1671472657166?e=1693440000&v=beta&t=YBsCgJ7MzCgXRUr8qy9MpfRLhw3ZJvd7mB8w-6ZM7xk](https://media.licdn.com/dms/image/v2/C4D0BAQFNLdi66ybirQ/company-logo_200_200/company-logo_200_200/0/1671472657504/drtransformacaodigital_logo?e=1733356800&v=beta&t=JlZJWBuG3AdDY84HiDr07oDfR5OBFzVdxVSgXJajXbQ)"/>](https://www.linkedin.com/company/drtransformacaodigital/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQFNLdi66ybirQ/company-logo_200_200/company-logo_200_200/0/1671472657504/drtransformacaodigital_logo?e=1733356800&v=beta&t=JlZJWBuG3AdDY84HiDr07oDfR5OBFzVdxVSgXJajXbQ"/>](https://www.linkedin.com/company/drtransformacaodigital/)
 
 **Estagio em Business intelligence (BI)** \
 [**dr_transformaçãodigital**](https://www.linkedin.com/company/drtransformacaodigital/) • Estágio \
