@@ -17,7 +17,7 @@
 ### Experiência de trabalho em dados
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQE83FNLwEvy1w/company-logo_200_200/0/1652727365182?e=1693440000&v=beta&t=omahEYC3W4agTMFF6AiCVja997HGCxE563nMlIpJOr0"/>](https://www.linkedin.com/company/votorantim/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D560BAQH3GEpoxmH9Jg/company-logo_200_200/company-logo_200_200/0/1686581069603/coe_centro_de_excelencia_votorantim_logo?e=1733356800&v=beta&t=zxS72DZH8eI3BfnNlYSWY1sM6q4_EBNppz4WHj3Ip9g"/>](https://www.linkedin.com/company/votorantim/)
 
 **Analista de Dados** \
 [**Centro de Excelência Votorantim**](https://www.linkedin.com/company/votorantim/) • Full-time \
