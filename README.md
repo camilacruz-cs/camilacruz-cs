@@ -12,33 +12,34 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/camiladacruz-cs/) [![Gmail Badge](https://img.shields.io/badge/-camiladacruz.cs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:camiladacruz.cs@gmail.com) [![GitHub camilacruz-cs]( https://img.shields.io/github/followers/camilacruz-cs?label=follow&style=social)](https://github.com/camilacruz-cs/camilacruz-cs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camiladacruz-cs/) 
+[![Gmail Badge](https://img.shields.io/badge/-camiladacruz.cs@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:camiladacruz.cs@gmail.com) 
+[![GitHub camilacruz-cs](https://img.shields.io/github/followers/camilacruz-cs?label=follow&style=social)](https://github.com/camilacruz-cs/camilacruz-cs)
 
-
-### Experiência de trabalho em dados
+### Experiência de trabalho em dados  
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D560BAQH3GEpoxmH9Jg/company-logo_200_200/company-logo_200_200/0/1686581069603/coe_centro_de_excelencia_votorantim_logo?e=1733356800&v=beta&t=zxS72DZH8eI3BfnNlYSWY1sM6q4_EBNppz4WHj3Ip9g"/>](https://www.linkedin.com/company/votorantim/)
+[<img align="left" height="94px" width="94px" alt="Votorantim" src="https://media.licdn.com/dms/image/v2/D560BAQH3GEpoxmH9Jg/company-logo_200_200/0/1686581069603/coe_centro_de_excelencia_votorantim_logo?e=1733356800&v=beta&t=zxS72DZH8eI3BfnNlYSWY1sM6q4_EBNppz4WHj3Ip9g"/>](https://www.linkedin.com/company/votorantim/)
 
-**Analista de Dados** \
-[**Centro de Excelência Votorantim**](https://www.linkedin.com/company/votorantim/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Microsoft SQL`, `Azure Databricks`, `PowerBi`\
+**Analista de Dados**  
+[**Centro de Excelência Votorantim**](https://www.linkedin.com/company/votorantim/) • Full-time  
+Linguagens & Tecnologias: `Python`, `Microsoft SQL`, `Azure Databricks`, `Power BI`  
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQFzl9ehpC65Fw/company-logo_200_200/company-logo_200_200/0/1699040021711/nao_consultoria_estratgia_logo?e=1733356800&v=beta&t=-rp4ay8_BomTJ5slM8kLTghFD3JLlGJDlAXn6jH5I6A"/>](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/)
+[<img align="left" height="94px" width="94px" alt="Nação Consultoria" src="https://media.licdn.com/dms/image/v2/D4D0BAQFzl9ehpC65Fw/company-logo_200_200/0/1699040021711/nao_consultoria_estratgia_logo?e=1733356800&v=beta&t=-rp4ay8_BomTJ5slM8kLTghFD3JLlGJDlAXn6jH5I6A"/>](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/)
 
-**Analista de Bussiness Intelligence** \
-[**Nação Consultoria e Estratégia**](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/) • Full-time \
-Linguagens & Tecnologias: `Google Sheets`, `RStudio`, `DataViz`,\
+**Analista de Business Intelligence**  
+[**Nação Consultoria e Estratégia**](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/) • Full-time  
+Linguagens & Tecnologias: `Google Sheets`, `RStudio`, `DataViz`  
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQFNLdi66ybirQ/company-logo_200_200/company-logo_200_200/0/1671472657504/drtransformacaodigital_logo?e=1733356800&v=beta&t=JlZJWBuG3AdDY84HiDr07oDfR5OBFzVdxVSgXJajXbQ"/>](https://www.linkedin.com/company/drtransformacaodigital/)
+[<img align="left" height="94px" width="94px" alt="DR Transformação Digital" src="https://media.licdn.com/dms/image/v2/C4D0BAQFNLdi66ybirQ/company-logo_200_200/0/1671472657504/drtransformacaodigital_logo?e=1733356800&v=beta&t=JlZJWBuG3AdDY84HiDr07oDfR5OBFzVdxVSgXJajXbQ"/>](https://www.linkedin.com/company/drtransformacaodigital/)
 
-**Estagio em Business intelligence (BI)** \
-[**dr_transformaçãodigital**](https://www.linkedin.com/company/drtransformacaodigital/) • Estágio \
-Linguagens & Tecnologias: `Alteryx`, `Tableau`, `PowerBi`,\
+**Estágio em Business Intelligence (BI)**  
+[**dr_transformaçãodigital**](https://www.linkedin.com/company/drtransformacaodigital/) • Estágio  
+Linguagens & Tecnologias: `Alteryx`, `Tableau`, `Power BI`  
 <br/>
+
 
 
 ## ⭐ Informações sobre minha conta GitHub
