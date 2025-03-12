@@ -2,13 +2,13 @@
 
 👩🏿‍🎓 Cientista social apaixonada por tecnologia e por analisar dados.
 
-💻 Trabalho atualmente como Analista de Dados. No meu dia a dia, utilizo PowerBi para construção de dashboards interativos e estou iniciando minha jornada de analisar dados em Python e SQL Server. 
+💻 Sou Analista de Dados. No meu dia a dia, utilizo PowerBi para construção de dashboards interativos, python e SQL para análise de dados.
 
 ✅ Já trabalhei construindo relatórios com Google DataStudio (LookerStudio) e analisando dados com Google Sheets.
 
 💡 Participo da comunidade [Mulheres em Dados](https://www.linkedin.com/company/mulheresemdados/) e também da [WoMakersCode](https://www.linkedin.com/company/womakerscode/) como voluntária. 
 
-💡 Atuo como Analista de Dados | Voluntária na comunidade [#ElasNoPoder](https://www.linkedin.com/company/elasnopoderbr/mycompany/). Atuo com análise de redes sociais. 
+💡 Atuei como Analista de Dados | Voluntária na comunidade [#ElasNoPoder](https://www.linkedin.com/company/elasnopoderbr/mycompany/). Atuo com análise de redes sociais. 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
@@ -19,21 +19,21 @@
 ### Experiência de trabalho em dados  
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Votorantim" src="https://media.licdn.com/dms/image/v2/D560BAQH3GEpoxmH9Jg/company-logo_200_200/0/1686581069603/coe_centro_de_excelencia_votorantim_logo?e=1733356800&v=beta&t=zxS72DZH8eI3BfnNlYSWY1sM6q4_EBNppz4WHj3Ip9g"/>](https://www.linkedin.com/company/votorantim/)
+[<img align="left" height="94px" width="94px" alt="Votorantim" src="https://media.licdn.com/dms/image/v2/D560BAQH3GEpoxmH9Jg/company-logo_200_200/company-logo_200_200/0/1686581069603/coe_centro_de_excelencia_votorantim_logo?e=1749686400&v=beta&t=2WMOgR4JC-dZZ9vPX1ejlBLSN_k9Es88qU0ukbzxj0s"/>](https://www.linkedin.com/company/votorantim/)
 
 **Analista de Dados**  
 [**Centro de Excelência Votorantim**](https://www.linkedin.com/company/votorantim/) • Full-time  
 Linguagens & Tecnologias: `Python`, `Microsoft SQL`, `Azure Databricks`, `Power BI`  
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nação Consultoria" src="https://media.licdn.com/dms/image/v2/D4D0BAQFzl9ehpC65Fw/company-logo_200_200/0/1699040021711/nao_consultoria_estratgia_logo?e=1733356800&v=beta&t=-rp4ay8_BomTJ5slM8kLTghFD3JLlGJDlAXn6jH5I6A"/>](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/)
+[<img align="left" height="94px" width="94px" alt="Nação Consultoria" src="https://media.licdn.com/dms/image/v2/D4D0BAQFzl9ehpC65Fw/company-logo_200_200/company-logo_200_200/0/1699040021711/nao_consultoria_estratgia_logo?e=1749686400&v=beta&t=m-7ZxxDSVYp6nGJ1n0ulY8PtMBkiMW9dvyL_Res9sy0"/>](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/)
 
 **Analista de Business Intelligence**  
 [**Nação Consultoria e Estratégia**](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/) • Full-time  
 Linguagens & Tecnologias: `Google Sheets`, `RStudio`, `DataViz`  
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="DR Transformação Digital" src="https://media.licdn.com/dms/image/v2/C4D0BAQFNLdi66ybirQ/company-logo_200_200/0/1671472657504/drtransformacaodigital_logo?e=1733356800&v=beta&t=JlZJWBuG3AdDY84HiDr07oDfR5OBFzVdxVSgXJajXbQ"/>](https://www.linkedin.com/company/drtransformacaodigital/)
+[<img align="left" height="94px" width="94px" alt="DR Transformação Digital" src="https://media.licdn.com/dms/image/v2/D4E0BAQGWp-d8BQSlbw/company-logo_200_200/company-logo_200_200/0/1732739975923/droove_tech_logo?e=1749686400&v=beta&t=Y1iF4iy2YJjYUjwcjDlCPD_BRWhczktnorK-4IS3c_U"/>](https://www.linkedin.com/company/drtransformacaodigital/)
 
 **Estágio em Business Intelligence (BI)**  
 [**dr_transformaçãodigital**](https://www.linkedin.com/company/drtransformacaodigital/) • Estágio  
