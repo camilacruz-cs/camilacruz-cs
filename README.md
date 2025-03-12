@@ -28,7 +28,7 @@ Linguagens & Tecnologias: `Python`, `Microsoft SQL`, `Azure Databricks`, `Power 
 
 [<img align="left" height="94px" width="94px" alt="Nação Consultoria" src="https://media.licdn.com/dms/image/v2/D4D0BAQFzl9ehpC65Fw/company-logo_200_200/company-logo_200_200/0/1699040021711/nao_consultoria_estratgia_logo?e=1749686400&v=beta&t=m-7ZxxDSVYp6nGJ1n0ulY8PtMBkiMW9dvyL_Res9sy0"/>](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/)
 
-**Analista de Business Intelligence**  
+**Analista de Business Intelligence | Pleno**  
 [**Nação Consultoria e Estratégia**](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/) • Full-time  
 Linguagens & Tecnologias: `Google Sheets`, `RStudio`, `DataViz`  
 <br/>
