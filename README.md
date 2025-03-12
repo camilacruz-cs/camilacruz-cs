@@ -23,7 +23,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Analista de Dados**  
 [**Centro de Excelência Votorantim**](https://www.linkedin.com/company/votorantim/) • Full-time  
-Linguagens & Tecnologias: `Python`, `Microsoft SQL`, `Azure Databricks`, `Power BI`  
+Linguagens & Tecnologias: `Python`, `Microsoft SQL`, `Azure Databricks`, `Power BI`,  `GenIA`
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Nação Consultoria" src="https://media.licdn.com/dms/image/v2/D4D0BAQFzl9ehpC65Fw/company-logo_200_200/company-logo_200_200/0/1699040021711/nao_consultoria_estratgia_logo?e=1749686400&v=beta&t=m-7ZxxDSVYp6nGJ1n0ulY8PtMBkiMW9dvyL_Res9sy0"/>](https://www.linkedin.com/company/na%C3%A7%C3%A3o-consultoria-estrat%C3%A9gia/)
